@@ -5401,3 +5401,8 @@ a.credit {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.css-table {
+    width: inherit;
+    background-color: #FF3636;
+}
