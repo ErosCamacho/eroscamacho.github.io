@@ -5407,9 +5407,10 @@ a.credit {
     background-color: #FF3636;
 }
 
-.card-date{
+.card-date {
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: -20px;
+    position: relative;
+    left: -20px;
     color: #fff;
 }
