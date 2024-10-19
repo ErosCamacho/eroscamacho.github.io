@@ -1010,7 +1010,8 @@ pre code {
     }
     .col-md-71 {
         flex: 0 0 71%;
-        max-width: 71%
+        max-width: 71%;
+        padding-right: 20px
     }
     .col-md-4 {
         flex: 0 0 33.333333%;
